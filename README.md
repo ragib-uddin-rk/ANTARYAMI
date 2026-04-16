@@ -31,9 +31,4 @@ AntarYami operates under a strictly defined **Ethical Digital Charter**. We spec
 ## 🚀 DEPLOYMENT_SESSION
 To establish a local instance for research purposes:
 
-```bash
-git clone [https://github.com/ragib-uddin-rk/AntarYami.git](https://github.com/ragib-uddin-rk/AntarYami.git)
-cd AntarYami
-# Configure Secure Perimeter
-chmod +x setup_intel.sh
-./setup_intel.sh
+comming soon
